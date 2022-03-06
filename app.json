@@ -17,16 +17,19 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jz6865.WorkHardTravelHardApp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.jz6865.WorkHardTravelHardApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
